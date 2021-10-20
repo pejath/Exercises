@@ -6,3 +6,4 @@ class Hash
     }
   end
 end
+
